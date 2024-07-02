@@ -7,14 +7,15 @@ This project was created out of a real-world business need.
 
 In my first few months at MILKRUN, part of my responsibility having owned the rider supply and onboarding function was to create employment contracts for ~50 new hires per week.
 
-This script allowed me to save 3.5 hours per week, which would otherwise have been used manually clicking and copy/pasting field data such as names and addresses into a template document before sharing via DocuSign.
+This script allowed me to save **3.5 hours per week**, which would otherwise have been used manually clicking and copy/pasting field data such as names and addresses into a template document before sharing via DocuSign.
 
 As part of the project, I wrote a comprehensive how-to guide which allowed me to pass on this tool to the next owner as I shifted my area of responsibility away from onboarding.
 
 ## 💡 Technologies Used 
-JavaScript was used to write the automation, run on the Google Apps Script platform.
+**JavaScript** was used to write the automation, run on the **Google Apps Script** platform.
 
-This allowed me to leverage Google Sheets as the UI and provided seamless connection with Google Drive as the document storage solution.
+This allowed me to leverage **Google Sheets** as the UI and provided seamless connection with Google Drive as the document storage solution.
+
 ## 🔥 Features 
 - Auto-fill existing placeholder text with real data;
 - Select destination folder in Google drive;
